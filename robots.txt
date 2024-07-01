@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://torsoncown.github.io/sitemap
+Sitemap: https://torsoncown.github.io/app/sitemap
+Sitemap: https://torsoncown.github.io/assets/sitemap
+Sitemap: https://torsoncown.github.io/css/sitemap
+Sitemap: https://torsoncown.github.io/includes/sitemap
+Sitemap: https://torsoncown.github.io/item/sitemap
+Sitemap: https://torsoncown.github.io/src/sitemap
